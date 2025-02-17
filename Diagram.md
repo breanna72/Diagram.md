@@ -19,7 +19,6 @@ Below the diagram, provide a brief description:
 ## Order Processing Flowchart
 
 This flowchart represents the steps involved in processing an online order.
-
 - *Order Placed*: This is the starting point where the customer initiates an order.
 - *Payment Method?*: At this decision point, the system determines which payment method the customer has selected.
     - If the customer chooses *Credit Card*, the flow continues to *Process Payment*.
